@@ -707,5 +707,55 @@
 
 
 
+#Q.1 Number Classification
+# Take input of two number. First check whether the first number is positive.if positive,
+# check whether it is greater than second number. Otherwise,print First number is not positive.
+
+# a = int(input("Enter the first number:"))
+# b = int(input("Enter the second number:"))
+# if a > 0:
+#    if b > 0:
+#       print("first number is greater")
+#    else:
+#       print("first number is not greater")
+# else:
+#    print("first number is not positive")
+
+#Q2. Student Result
+# Take marks of two subject as input.First check whether the student has passed the first
+# subject (33 or above). if yes check whether the student has passed the second subject.print
+# pass or fail.
+
+# Science = int(input("First subject is science"))
+# Math  = int(input("First subject is math"))
+# if Science >=33:
+#    if Math >=33:
+#       print("pass")
+#    else:
+#       print("Fail") 
+# else:
+#    print("Fail")     
+
+
+#Q3. Age and Permission
+# Take age and permissiom(1 for yes,0 for No)as input.First check whether age is 18 of above.if yes check
+# whether permission is 1. print Allowed or permission Required.
+
+a = int(input("Enter the age"))
+b = int(input("Enter the permission"))
+if a >=18:
+    if b == 1:
+        print("allowed")
+    else:
+        b == 0
+        print("permission required")
+
+        
+
+
+
+
+
+
 
 
