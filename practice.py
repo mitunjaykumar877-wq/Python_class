@@ -741,14 +741,49 @@
 # Take age and permissiom(1 for yes,0 for No)as input.First check whether age is 18 of above.if yes check
 # whether permission is 1. print Allowed or permission Required.
 
-a = int(input("Enter the age"))
-b = int(input("Enter the permission"))
-if a >=18:
-    if b == 1:
-        print("allowed")
-    else:
-        b == 0
-        print("permission required")
+# a = int(input("Enter the age"))
+# b = int(input("Enter the permission"))
+# if a >=18:
+#     if b == 1:
+#         print("allowed")
+#     else:
+#         b == 0
+#         print("permission required")
+
+# Q4.Take two numbers as input. First check whether both numbers are equal.
+#  If not equal, check which number is greater.
+
+# a = int(input("Enter the number;"))
+# b = int(input("Enter the number;"))
+# if a == b:
+#     print("both number are qual")
+# elif a > b:
+#     print("first number is greater")
+# else:
+#     print("second number is greater")
+
+
+#Q5.Take shopping amount and membership status (1 for Member, 0 for Non-member)
+#  as input. First check whether the person is a member. If yes,
+#  check whether shopping amount is 1000 or more.Print Discount Available 
+# or No Discount.
+
+
+# amount = float(input("Enter the membership"))
+# membership = int(input("Enter membership atatus(1 for member,0 for non-member)"))
+# if membership == 1:
+#     if amount > 1000:
+#         print("Discount available")
+#     else:
+#         print("no Discount")
+# else:
+#     print("no discount")
+
+
+
+
+
+
 
         
 
