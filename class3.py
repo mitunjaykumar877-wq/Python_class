@@ -1,6 +1,6 @@
 # input and output
 # name = "Mitunjay"
-age = 24
+# age = 24
 # two ways of using variable inside print statements
 # print("hello your  name is",name,"and you age is",age)
 # print(f"hello your name is{name} and you age is{age}")

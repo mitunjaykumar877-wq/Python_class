@@ -16,7 +16,7 @@
 #  1) pascal case
 # MitunjayKumar = 13
 # 2) camel case
-sheryiansCodingSchool = 12
+# sheryiansCodingSchool = 12
 # 3) snake case 
 # sheryians_coding_school = 12
 
@@ -62,9 +62,9 @@ sheryiansCodingSchool = 12
 
 
 # string slicing (start stop step)
-name = "sheryians"
-print(name[0:6:1])
-print(name[::])
+# name = "sheryians"
+# print(name[0:6:1])
+# print(name[::])
 
 # type conversion / casting
 # int() , float(), str(), bool()  
